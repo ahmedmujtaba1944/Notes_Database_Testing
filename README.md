@@ -4,7 +4,7 @@
 - **Create Database**: Initializes a new database.
 - **Drop Database**: Permanently removes an existing database.
 
-#### Data Definition Language (DDL)
+#### Data Definition Language (DDL) ( This is totally on Schema, database Structure) 
 - **Create Table**: Defines a new table with specified columns.
 - **Drop Table**: Deletes a table and all its data.
 - **Truncate Table**: Removes all rows from a table without deleting the table structure.
@@ -13,7 +13,7 @@
   - **Drop**: Removes a column from a table.
   - **Rename Column**: Changes the name of an existing column.
 
-#### Data Manipulation Language (DML)
+#### Data Manipulation Language (DML) ( This is totally on data side)
 - **Select**: Retrieves data from one or more tables.
 - **Insert Into Table**: Adds new rows to a table.
 - **Delete Row From Table**: Removes specific rows from a table based on conditions.
