@@ -12,12 +12,16 @@
   - **Add**: Introduces a new column to an existing table.
   - **Drop**: Removes a column from a table.
   - **Rename Column**: Changes the name of an existing column.
-
+- **Comments**
+- **Create View**
+- **Drop View**
 #### Data Manipulation Language (DML) ( This is totally on data side)
 - **Select**: Retrieves data from one or more tables.
 - **Insert Into Table**: Adds new rows to a table.
 - **Delete Row From Table**: Removes specific rows from a table based on conditions.
 - **Update Row**: Modifies existing data in a table.
+- **Merge**
+- Call ( For PL-SQL)
 
 #### Data Query Language (DQL)
 - **Select**: Fetches data from the database.
